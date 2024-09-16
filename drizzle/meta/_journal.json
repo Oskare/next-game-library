@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1724869887274,
+      "tag": "0000_concerned_jane_foster",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1725994698174,
+      "tag": "0001_abandoned_starbolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1725995384419,
+      "tag": "0002_slow_supernaut",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1726415923753,
+      "tag": "0003_thin_epoch",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1726417278040,
+      "tag": "0004_handy_lady_mastermind",
+      "breakpoints": true
+    }
+  ]
+}
